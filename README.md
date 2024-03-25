@@ -1,6 +1,6 @@
 # software-engineering-corner
 
-Repository for our Zuehlke dev blog: [https://software-engineering-corner.zuehlke.com](https://software-engineering-corner.zuehlke.com)
+Repository for our Zuehlke dev blog: [https://software-engineering-corner.zuehlke.com](https://software-engineering-corner.zuehlke.com) 
 
 ## How to add a blog post
 
